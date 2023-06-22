@@ -1,0 +1,11 @@
+PID:6601 time: min:273 max:94063 Ticks Avg without min/max:296.836067 Ticks (for 10000 measurements) for 64 Bytes (523.46 MB/s)
+PID:6601 time: min:494 max:3062 Ticks Avg without min/max:592.235947 Ticks (for 10000 measurements) for 256 Bytes (1258.46 MB/s)
+PID:6601 time: min:931 max:1197884 Ticks Avg without min/max:1381.655831 Ticks (for 10000 measurements) for 1024 Bytes (2173.52 MB/s)
+PID:6601 time: min:1468 max:624264 Ticks Avg without min/max:2519.201640 Ticks (for 10000 measurements) for 4096 Bytes (5219.47 MB/s)
+PID:6601 time: min:5672 max:1104924 Ticks Avg without min/max:7988.435687 Ticks (for 10000 measurements) for 16384 Bytes (6719.85 MB/s)
+PID:6601 time: min:25838 max:2377729 Ticks Avg without min/max:27052.721444 Ticks (for 10000 measurements) for 65536 Bytes (7996.93 MB/s)
+PID:6601 time: min:103342 max:3381845 Ticks Avg without min/max:107721.764353 Ticks (for 10000 measurements) for 262144 Bytes (8083.39 MB/s)
+PID:6601 time: min:415111 max:6343754 Ticks Avg without min/max:444549.357171 Ticks (for 10000 measurements) for 1048576 Bytes (7849.60 MB/s)
+PID:6601 time: min:1701241 max:29221841 Ticks Avg without min/max:1773924.531706 Ticks (for 10000 measurements) for 4194304 Bytes (7867.03 MB/s)
+PID:6601 time: min:7141385 max:37962324 Ticks Avg without min/max:7541870.831066 Ticks (for 10000 measurements) for 16777216 Bytes (7410.14 MB/s)
+
